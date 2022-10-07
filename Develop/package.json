@@ -1,14 +1,23 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jerome Nixon",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "README-Generator"
+  },
+  "keywords": [
+    "create",
+    "readme"
+  ],
+  "description": "A tool for creating a professional README for projects"
 }
