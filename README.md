@@ -29,7 +29,8 @@ To use this application clone or fork the Github repository and set it up in you
 <img src= "assets\ReadMe-terminal.jpg"></img>
 
 
-[Watch Builing README]([](assets/Trimmed-video.webm))
+[Trimmed-video.webm](https://user-images.githubusercontent.com/112592440/194686943-d1d62c07-de23-4eb6-86b0-78a412c0e391.webm)
+
     
 ## 
 
