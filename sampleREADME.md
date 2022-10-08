@@ -26,10 +26,10 @@ This application is installed by downloading node.js, downloading inquirer 8.2.4
 ## Usage
 You use this application however you like. 
 
-![image](assets\puppy.jpg)
+![puppy](https://user-images.githubusercontent.com/112592440/194688136-bf8f1767-0132-4f56-a305-26ee48dcd3a1.jpg)
 
-![image](assets\moredogs.jpg)
 
+![moredogs](https://user-images.githubusercontent.com/112592440/194688144-44ad29ae-e6ac-4bb8-bf16-904cf7cf7799.jpg)
 
     
 ## 
