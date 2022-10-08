@@ -29,6 +29,7 @@ To use this application clone or fork the Github repository and set it up in you
 <img src= "assets\ReadMe-terminal.jpg"></img>
 
 
+[ReadmeVid.webm](https://user-images.githubusercontent.com/112592440/194686454-0258ae37-2b10-4740-bff3-122ac46b65b0.webm)
 
 
 ## 
