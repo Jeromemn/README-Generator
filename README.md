@@ -26,17 +26,17 @@ The purpose of this project is to create a application that will assist develope
 ## Usage
 To use this application clone or fork the Github repository and set it up in your local branch, then pull up the terminal, use npm init, npm i inquirer@8.2.4. The user should then be able to type node index.js into the terminal and press enter. This will trigger the program to start creating the README. After answering all of the questions supplied , the README will automatically be created  and can be viewed. In VS Code the images and video will need to be set utilizing  each respective path, and stored in local. The images will be visible within VS code README preview however the videos will only show a title, that title can be edited on line 72 of the generateMarkdown.js file. once in Github both the images and videos should be visible in the readme. 
 
-![image](assets\ReadMe-terminal.jpg)
+<img src= "(assets\ReadMe-terminal.jpg)"></img>
 
 
 
-[Watch Builing README](assets\ReadmeVid.webm)
+[Watch Builing README](assets/ReadME-final.webm)
     
 ## 
 
 
 ## How to contribute
-You may contribute Feel free to contribute to this application by clonning or forking to your github repository and make any changes you please.
+Feel free to contribute to this application by clonning or forking to your github repository and make any changes you please.
 
 ## 
 
