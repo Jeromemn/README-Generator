@@ -30,8 +30,7 @@ To use this application clone or fork the Github repository and set it up in you
 
 
 
-[Watch Builing README](assets/ReadME-final.webm)
-    
+
 ## 
 
 
